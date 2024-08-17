@@ -1,5 +1,5 @@
 # CheckMover
-A simple script I wrote at my last job. I made it specifically to expedite one task I had of renaming and moving pdfs from one folder to another folder.
+A simple script I wrote at HPSI. I made it specifically to expedite one task I had of renaming and moving pdfs from one folder to another folder.
 
 ## Description
 At my previous job, I would receive scanned PDFs of various checks from our company's vendors. Because the checks were scanned, none of the file names contained the one piece of information we (humans) cared about - the check number. This means that for every check, I had to 
